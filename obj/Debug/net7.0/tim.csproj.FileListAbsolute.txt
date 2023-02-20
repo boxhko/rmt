@@ -1,0 +1,15 @@
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\bin\Debug\net7.0\tim.exe
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\bin\Debug\net7.0\tim.deps.json
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\bin\Debug\net7.0\tim.runtimeconfig.json
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\bin\Debug\net7.0\tim.dll
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\bin\Debug\net7.0\tim.pdb
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.csproj.AssemblyReference.cache
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.AssemblyInfoInputs.cache
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.AssemblyInfo.cs
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.csproj.CoreCompileInputs.cache
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.dll
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\refint\tim.dll
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.pdb
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\tim.genruntimeconfig.cache
+C:\Users\sanxg\OneDrive\Рабочий стол\tim\obj\Debug\net7.0\ref\tim.dll
